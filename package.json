@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@airgrid/edgekit": "^0.0.0-dev.41",
+    "@types/node": "^17.0.42"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.1",
+    "@types/mocha": "^9.1.1",
+    "mocha": "^10.0.0"
+  }
+}
